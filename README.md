@@ -2,6 +2,8 @@
 
 Digitized and structured source material for the Bangladesh Road Transport Rules, 2022 (`সড়ক পরিবহণ বিধিমালা, ২০২২`). The project contains OCR-generated HTML pages, source images, structured JSON datasets, and validation/conversion scripts.
 
+The source law text is reproduced from public-domain government gazette content. The scripts and original dataset structure in this repository are licensed under the MIT License.
+
 ## Project layout
 
 - `images/`: source page images
@@ -9,6 +11,7 @@ Digitized and structured source material for the Bangladesh Road Transport Rules
 - `json/`: master and retrieval-augmented JSON datasets
 - `scripts/`: OCR, conversion, and validation utilities
 - `input/`: original input material
+- `LICENSE`: MIT License for the original project code and structure
 
 ## Running the checks
 
